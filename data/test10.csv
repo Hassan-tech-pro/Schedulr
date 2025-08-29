@@ -1,0 +1,11 @@
+course_id,course,group,teacher,duration,room_type
+C1,Math,1,Smith,2,lecture
+C2,Physics,1,Jones,2,lecture
+C3,Chemistry,2,Smith,2,lab
+C4,Biology,2,Brown,2,lab
+C5,English,3,Davis,1,lecture
+C6,History,3,Smith,2,lecture
+C7,PE,4,Green,1,lab
+C8,Music,5,White,1,lecture
+C9,Art,5,White,2,lecture
+C10,CS,5,Clark,2,lab
